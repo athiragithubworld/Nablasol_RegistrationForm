@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+       <style>
+        :root {
+            --color-cyan-500: #06b6d4;
+            --color-blue-500: #3b82f6;
+        }
+
+        .bg-gradient {
+            background-image: linear-gradient(to right, var(--color-cyan-500), var(--color-blue-500));
+        }
+
+        .padding-6 {
+            padding: 1.5rem;
+        }
+
+        .text-white {
+            color: white;
+        }
+    </style>
+  </head>
+  <body>
+    <div id="root" 
+    class="bg-gradient "
+    ></div>
+    <script type="module" class="bg-gradient" src="/src/main.jsx"></script>
+  </body>
+</html>
