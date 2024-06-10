@@ -3,10 +3,10 @@ This is a simple registration form project built with React and Vite. It allows 
 
 ## Installation
 
-1. Clone the repository: git clone https: //github.com/your-username/vite-react-project.git  
-2. Navigate to the project directory: cd vite-react-project
-3. Install dependencies: npm install
-4. Install React Icons: npm install react-icons
+1. Clone the repository: https://github.com/athiragithubworld/Nablasol_RegistrationForm.git
+2. Navigate to the project directory: cd vite-react-project (folder name where you cloned)
+3. Install React Icons: npm install react-icons
+4. Install dependencies: npm install
 
 **Usage**
 
