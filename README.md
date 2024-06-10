@@ -1,8 +1,18 @@
-# React + Vite
+**Form Register Project**
+This is a simple registration form project built with React and Vite. It allows users to register by filling in their personal information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
 
-Currently, two official plugins are available:
+1. Clone the repository: git clone https: //github.com/your-username/vite-react-project.git  
+2. Navigate to the project directory: cd vite-react-project
+3. Install dependencies: npm install
+4. Install React Icons: npm install react-icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Usage**
+
+5. To start the development server, run:- npm run dev
+
+**Technologies Used**
+Vite + React
+Tailwind CSS
+React Icons
