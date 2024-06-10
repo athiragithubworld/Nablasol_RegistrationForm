@@ -187,7 +187,7 @@ const Registration = () => {
         )}
         {step === 3 && (
           <>
-            {/* <h2 className="text-2xl font-bold mb-6">Step 3: Review & Submit</h2> */}
+            
             <div className="flex justify-between mt-6 p-8">
               <button
                 onClick={prevStep}
