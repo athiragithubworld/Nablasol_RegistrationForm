@@ -137,9 +137,9 @@ const BusinessForm = ({
                   <MdCheck />
                 </span>
               </label>
-              <button className="text-white bg-blue-500 py-1 px-2 rounded">
+              <label className="text-white bg-blue-500 py-2 px-2 rounded">
                 <FaChevronRight />
-              </button>
+              </label>
             </div>
             <div className="flex gap-3">
               <label
@@ -153,9 +153,9 @@ const BusinessForm = ({
                   <IoClose />
                 </span>
               </label>
-              <button className="text-white bg-blue-500 py-1 px-2 rounded">
+              <label className="text-white bg-blue-500 py-2 px-2 rounded">
                 <FaChevronRight />
-              </button>
+              </label>
             </div>
           </div>
         </div>
@@ -171,9 +171,9 @@ const BusinessForm = ({
                 <MdCheck />
               </span>
             </label>
-            <button className="text-white bg-blue-500 py-1 px-2 rounded">
+            <label className="text-white bg-blue-500 py-2 px-2 rounded">
               <FaChevronRight />
-            </button>
+            </label>
           </div>
         </div>
       </form>
